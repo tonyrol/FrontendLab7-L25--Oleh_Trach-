@@ -1,0 +1,10 @@
+Hometask requirements:
+
+Add some functionality to MVC application you created on practice lesson according to design provided in design.png file:
+
+- 'Current person brief info' view for displaying data for current person
+- 'Persons sorting' view for sorting persons in the list by clicking on 'up' and 'down' arrows
+
+Notes:
+- No images should be used for creating arrows. It should be made by css only
+- No errors in console should appear
